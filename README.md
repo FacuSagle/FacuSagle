@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Facundo Sagle</h1>
-<h3 align="center">A passionate Data Scientist from Argentina</h3>
+<h3 align="center">A passionate Data Scientist and chemical engineer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=facusagle&label=Profile%20views&color=0e75b6&style=flat" alt="facusagle" /> </p>
+
+- 🔭 I’m interested in **technology, environmental care, vegan food, industry and video games.**
 
 - 🌱 I’m currently studying at Henry **in the race Data scientist**
 
