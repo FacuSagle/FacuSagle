@@ -4,9 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=facusagle&label=Profile%20views&color=0e75b6&style=flat" alt="facusagle" /> </p>
 
 <h3 align="left">About me:</h3>
-- 🔭 I’m interested in **technology, environmental care, industry and video games.**
 
-- 🌱 I’m currently studying at Henry in the race ** Data scientist**
+- 🔭 I’m interested in **technology, environmental care, industry and video games**
+
+- 🌱 I’m currently studying at Henry in the race **Data scientist**
 
 - 👯 I’m looking to collaborate on **any Open - Source data science projects**
 
@@ -15,9 +16,10 @@
 - 📫 How to reach me **facundo.sagle5@gmail.com**
 
 <h3 align="left">Acerca de mí:</h3>
-- 🔭Me interesa la **tecnología, el cuidado del medio ambiente,, la industria y los videojuegos.**
 
-- 🌱 Actualmente estoy estudiando en Henry en la carrera ** Científico de datos**
+- 🔭Me interesa la **tecnología, el cuidado del medio ambiente,, la industria y los videojuegos**
+
+- 🌱 Actualmente estoy estudiando en Henry en la carrera **Científico de datos**
 
 - 👯 Estoy buscando colaborar en **cualquier proyecto de ciencia de datos de código abierto**
 
